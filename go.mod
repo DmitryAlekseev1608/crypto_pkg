@@ -1,4 +1,4 @@
-module github.com/DmitryAlekseev1608/crypto_pkg
+module github.com/DmitryAlekseev1608/crypto_pkg/logger
 
 go 1.25.3
 
